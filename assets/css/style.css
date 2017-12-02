@@ -7,16 +7,16 @@ section h2{
 }
 
 /*estilos primera sección*/
-#first-section{
+#nav{
   font-weight: bold;
 }
 
-#first-section .logo{
+.navbar-brand{
   display: inline-block;
   width: 10em;
 }
 
-#first-section .dropdown{
+.dropdown{
   width: 10em;
 }
 
