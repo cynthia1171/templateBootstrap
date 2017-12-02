@@ -9,6 +9,7 @@ section h2{
 /*estilos primera sección*/
 #nav{
   font-weight: bold;
+  margin-top: -4%;
 }
 
 .navbar-brand{
