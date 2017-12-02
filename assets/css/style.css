@@ -1,0 +1,100 @@
+section{
+  margin-top: 4%;
+}
+
+section h2{
+  font-weight: bold;
+}
+
+/*estilos primera sección*/
+#first-section{
+  font-weight: bold;
+}
+
+#first-section .logo{
+  display: inline-block;
+  width: 10em;
+}
+
+#first-section .dropdown{
+  width: 10em;
+}
+
+
+/*estilos sección "title"*/
+#title .row{
+  background-color: #eeeeef;
+}
+
+#title .text{
+  padding: 3%;
+}
+
+
+/*estilos sección botones*/
+#buttons .separacion{
+  padding: 1%;
+}
+
+#buttons .separacion button, a{
+  margin-right: 1%;
+  border-radius: 7%;
+}
+
+.separacion #primero{
+  display: inline-block;
+  font-size: large;
+}
+
+.separacion #segundo{
+  display: inline-block;
+  font-size: larger;
+}
+
+.separacion #tercero{
+  display: inline-block;
+  font-size: medium;
+}
+
+.separacion #cuarto{
+  display: inline-block;
+  font-size: small;
+}
+
+
+/*estilos sección tablas*/
+
+/*estilos sección labels*/
+#labels h1, 
+h2,
+h3,
+h4,
+h5,
+h6{
+  display: inline-block;
+}
+
+
+/*estilos sección badges*/
+#badges .but{
+  margin-top: 2%;
+}
+#badges .but button:first-of-type{
+  color: #fff;
+}
+
+#badges .but>button{
+  border: none;
+  color: #2e7bb1;
+  font-weight: bold;
+}
+
+
+/*estilos sección navbar*/
+#navbar div .navbar-brand{
+  width: 10em;
+}
+
+#navbar div .dropdown{
+  width: 10em;
+}
