@@ -12,12 +12,12 @@ section h2{
   margin-top: -4%;
 }
 
-.navbar-brand{
+nav .container .navbar-header .navbar-brand{
   display: inline-block;
   width: 10em;
 }
 
-.dropdown{
+nav .container .dropdown{
   width: 10em;
 }
 
